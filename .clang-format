@@ -1,0 +1,11 @@
+BasedOnStyle: google
+AllowShortIfStatementsOnASingleLine: true
+AllowShortLoopsOnASingleLine: true
+AllowShortFunctionsOnASingleLine: true
+AllowShortBlocksOnASingleLine: true
+AlwaysBreakBeforeMultilineStrings: false
+IndentWidth: 4
+PointerBindsToType: false
+ColumnLimit: 0
+SpaceBeforeParens: ControlStatements
+SortIncludes: false
